@@ -47,7 +47,7 @@ Tether (USDT), DAI , Binance USD (BUSD)
 
 *  **возможность интеграции с децентрализованными приложениями;**
 
-**Один из самых популярных примеров мультивалютного кошелька – Trust Wallet. Это специальное мобильное приложение для [Android](https://play.google.com/store/apps/details?id=com.wallet.crypto.trustapp&hl=ru&gl=US) и [iOS](https://apps.apple.com/app/apple-store/id1288339409?mt=8), которое поддерживает более 53 блокчейнов и более 160 тысяч активов.**
+**Один из самых популярных примеров мультивалютного кошелька – [Trust Wallet](https://trustwallet.com/ru/). Это специальное мобильное приложение для [Android](https://play.google.com/store/apps/details?id=com.wallet.crypto.trustapp&hl=ru&gl=US) и [iOS](https://apps.apple.com/app/apple-store/id1288339409?mt=8), которое поддерживает более 53 блокчейнов и более 160 тысяч активов.**
 
 **Я буду хранить свои активы на Trust Wallet**
 
